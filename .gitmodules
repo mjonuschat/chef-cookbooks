@@ -13,3 +13,6 @@
 [submodule "container_baseimage"]
 	path = container_baseimage
 	url = https://github.com/mjonuschat/chef_container_baseimage.git
+[submodule "container_passenger"]
+	path = container_passenger
+	url = https://github.com/mjonuschat/chef_container_passenger.git
