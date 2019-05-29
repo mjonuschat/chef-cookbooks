@@ -16,3 +16,6 @@
 [submodule "container_passenger"]
 	path = container_passenger
 	url = https://github.com/mjonuschat/chef_container_passenger.git
+[submodule "container_rails"]
+	path = container_rails
+	url = https://github.com/mjonuschat/chef_container_rails
