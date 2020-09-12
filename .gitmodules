@@ -22,3 +22,6 @@
 [submodule "container_opensmtpd"]
 	path = container_opensmtpd
 	url = https://github.com/mjonuschat/chef_container_opensmtpd
+[submodule "container_borgmatic"]
+	path = container_borgmatic
+	url = https://github.com/mjonuschat/chef_container_borgmatic
