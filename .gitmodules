@@ -19,3 +19,6 @@
 [submodule "container_rails"]
 	path = container_rails
 	url = https://github.com/mjonuschat/chef_container_rails
+[submodule "container_opensmtpd"]
+	path = container_opensmtpd
+	url = https://github.com/mjonuschat/chef_container_opensmtpd
